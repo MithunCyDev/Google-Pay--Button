@@ -1,4 +1,3 @@
-#googlepay
  <h1 align="center">Google-Pay-Button</h1>
 <p>Replace:</p>
 <small>
